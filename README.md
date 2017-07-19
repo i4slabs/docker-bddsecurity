@@ -14,8 +14,9 @@ Image to execute bdd security test. This pipeline constructs the images to make 
 behave >= 1.2.5
 PyHamcrest >= 1.9.0
 nassl == 0.16.3
-sslyze == 1.1.0
+sslyze == 1.1.1
 selenium ==3.4.1
+selenium-requests==1.3
 requests >=2.7.0
 pyvirtualdisplay >=0.2.1
 configparser
